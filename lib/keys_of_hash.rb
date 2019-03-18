@@ -6,6 +6,6 @@ class Hash
     elsif arguments == ""
       
     end
-    return *arr
+    return arr
   end
 end
