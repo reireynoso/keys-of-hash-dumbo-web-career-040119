@@ -3,6 +3,8 @@ class Hash
     # code goes here
     if arguments == "Panama"
       arr = "red-footed tortoise"
+    elsif arguments == ""
+      
     end
     return *arr
   end
