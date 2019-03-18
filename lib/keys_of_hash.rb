@@ -8,6 +8,6 @@ class Hash
         arr << "red-footed tortoise"
       end
     end
-  puts arr
+  return arr
   end
 end
