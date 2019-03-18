@@ -3,7 +3,7 @@ class Hash
     # code goes here
     arr = []
     
-    
+    arguments.each
 
   end
 end
