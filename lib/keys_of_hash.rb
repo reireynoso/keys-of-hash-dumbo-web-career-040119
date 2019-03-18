@@ -3,7 +3,9 @@ class Hash
     # code goes here
     arr = []
     
-    arguments.each
+    arguments.each do |args|
+      puts args
+    end
 
   end
 end
