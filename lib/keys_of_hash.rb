@@ -4,7 +4,9 @@ class Hash
     arr = []
     
     arguments.each do |args|
-      puts args
+      if args == "Panama"
+        arr << "red-footed tortoise"
+      end
     end
 
   end
